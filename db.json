@@ -2,10 +2,10 @@
   "users": [
     {
       "id": 1,
-      "name": "Mike Jonson",
-      "dateOfBirth": "1997-03-15",
-      "info": "Car driver",
-      "photo": "https://i.ibb.co/L0RLc6R/1.jpg"
+      "name": "Elon Musk",
+      "dateOfBirth": "2018-09-23",
+      "info": "Truck driver",
+      "photo": "https://www.linkpicture.com/q/Elon.jpg"
       
     },
     {
