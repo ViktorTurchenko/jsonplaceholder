@@ -22,6 +22,7 @@
       "info": "Software Engineer",
       "photo": "https://www.linkpicture.com/q/Roman.jpg"
     },
+    
     {
       "id": 4,
       "name": "Paco Alcantaro",
@@ -35,6 +36,20 @@
       "dateOfBirth": "2010-02-12",
       "info": "Customer Support",
       "photo": "https://www.linkpicture.com/q/LPic5fc02356518bf1081326379.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dima Gordon",
+      "dateOfBirth": "2020-09-11",
+      "info": "Boxer",
+      "photo": "https://www.linkpicture.com/q/Gordon.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dima Gordon",
+      "dateOfBirth": "2020-09-11",
+      "info": "Boxer",
+      "photo": "https://www.linkpicture.com/q/Gordon.jpg"
     }
   ],
   "profile": {
