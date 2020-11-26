@@ -24,20 +24,20 @@
     },
     {
       "id": 4,
-      "name": "Mike Pence",
-      "dateOfBirth": "1969-03-30",
-      "info": "Security system",
-      "photo": "https://i.ibb.co/sCFsD3b/4.jpg"
+      "name": "Paco Alcantaro",
+      "dateOfBirth": "2016-02-12",
+      "info": "Storage worker",
+      "photo": "https://www.linkpicture.com/q/Storake.jpg"
     },
     {
       "id": 5,
-      "name": "Aslagor Lorenzo",
-      "dateOfBirth": "1996-11-11",
-      "info": "Office management",
-      "photo": "https://i.ibb.co/h2fQ3Wk/5.jpg"
+      "name": "Ned Growings",
+      "dateOfBirth": "2010-02-12",
+      "info": "Customer Support",
+      "photo": "https://www.jaggaer.com/app/uploads/2020/10/Support_iStock-1215890726.jpg"
     }
   ],
   "profile": {
-    "name": "fallupboy"
+    "name": "Viktor"
   }
 }
