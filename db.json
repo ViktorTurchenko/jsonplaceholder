@@ -10,17 +10,17 @@
     },
     {
       "id": 2,
-      "name": "Serhio Ramos",
-      "dateOfBirth": "1990-07-09",
-      "info": "Pizza delivery",
-      "photo": "https://i.ibb.co/kGhqHKV/2.jpg"
+      "name": "Dima Gordon",
+      "dateOfBirth": "2020-09-11",
+      "info": "Boxer",
+      "photo": "https://www.linkpicture.com/q/Gordon.jpg"
     },
     {
       "id": 3,
-      "name": "Judith Askold",
-      "dateOfBirth": "1995-01-28",
-      "info": "Customer service",
-      "photo": "https://i.ibb.co/FYpD1Px/3.jpg"
+      "name": "Roman Zvernydub",
+      "dateOfBirth": "2009-01-28",
+      "info": "Software Engineer",
+      "photo": "https://www.linkpicture.com/q/Roman.jpg"
     },
     {
       "id": 4,
