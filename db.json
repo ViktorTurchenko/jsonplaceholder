@@ -3,39 +3,39 @@
     {
       "id": 1,
       "name": "Elon Musk",
-      "dateOfBirth": "2018-09-23",
-      "info": "Truck driver",
-      "photo": "https://www.linkpicture.com/q/Elon.jpg"
+      "date": "2018-09-23",
+      "position": "Truck driver",
+      "foto": "https://www.linkpicture.com/q/Elon.jpg"
       
     },
     {
       "id": 2,
       "name": "Dima Gordon",
-      "dateOfBirth": "2020-09-11",
-      "info": "Boxer",
-      "photo": "https://www.linkpicture.com/q/Gordon.jpg"
+      "date": "2020-09-11",
+      "position": "Boxer",
+      "foto": "https://www.linkpicture.com/q/Gordon.jpg"
     },
     {
       "id": 3,
       "name": "Roman Zvernydub",
-      "dateOfBirth": "2009-01-28",
-      "info": "Software Engineer",
-      "photo": "https://www.linkpicture.com/q/Roman.jpg"
+      "date": "2009-01-28",
+      "position": "Software Engineer",
+      "foto": "https://www.linkpicture.com/q/Roman.jpg"
     },
     
     {
       "id": 4,
       "name": "Paco Alcantaro",
-      "dateOfBirth": "2016-02-12",
-      "info": "Storage worker",
-      "photo": "https://www.linkpicture.com/q/Storake.jpg"
+      "date": "2016-02-12",
+      "position": "Storage worker",
+      "foto": "https://www.linkpicture.com/q/Storake.jpg"
     },
     {
       "id": 5,
       "name": "Ned Growings",
-      "dateOfBirth": "2010-02-12",
-      "info": "Customer Support",
-      "photo": "https://www.linkpicture.com/q/LPic5fc02356518bf1081326379.jpg"
+      "date": "2010-02-12",
+      "position": "Customer Support",
+      "foto": "https://www.linkpicture.com/q/LPic5fc02356518bf1081326379.jpg"
     }
 
   ],
